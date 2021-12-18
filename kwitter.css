@@ -1,0 +1,35 @@
+body{
+    background:burlywood;
+    text-align: center;
+    font-family: fantasy;
+}
+#user_name{
+    background-color: greenyellow;
+}
+h1{
+    font-family: Brush Script MT;
+    font-size: 50px;
+    color: whitesmoke;
+}
+#user_name{
+ font-size: 20px;
+}
+#login_button{
+    background-color:blue;
+    color: lime;
+}
+#logout_button{
+    background-color: green;
+    height: 50px;
+    width: 150px;
+    font-family: Impact;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+#name_show{
+    color:khaki;
+}
+#msgfromfirebase{
+    font-family: Arial;
+}
